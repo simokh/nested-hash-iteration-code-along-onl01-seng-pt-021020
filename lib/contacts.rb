@@ -19,5 +19,5 @@ contacts.each do |name, value|
   puts "#{"freddy Mercury"} #{favorite_ice_cream_flavors}.shift [0]"
   retrun contacts
 
-end
+  end
 end
