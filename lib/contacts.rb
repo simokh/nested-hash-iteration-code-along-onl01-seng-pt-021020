@@ -15,9 +15,8 @@ require 'pry'
   # }
 
 def remove_strawberry(contacts)
-contacts.each do |name, value|
-  "#{"freddy Mercury"}: #{favorite_ice_cream_flavors}:.shift [0]"
-  retrun contacts
+contacts.each do |person, value|
+  binding.pry 
 
   end
 end
