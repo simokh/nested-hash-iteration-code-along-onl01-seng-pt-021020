@@ -19,5 +19,6 @@ contacts.each do |person, value|
   if person == "Freddy Mercury"
     contact_details_hash.each do |person, value|
   binding.pry
-
+    end
+  end
 end
